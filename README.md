@@ -3,7 +3,7 @@
 > [!WARNING]
 > AI SLOP ALERT
 
-**nomoji** tool emoji characters from text files while preserving all other Unicode content.
+**nomoji** remove emoji characters from text files while preserving all other Unicode content.
 
 ## Features
 
