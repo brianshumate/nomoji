@@ -1,5 +1,7 @@
 # nomoji
 
+![rust workflow](https://github.com/brianshumate/nomoji/actions/workflows/rust.yml/badge.svg)
+
 > [!WARNING]
 > AI SLOP ALERT
 
